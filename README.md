@@ -1,2 +1,24 @@
-# time
- 简单的 HTML 时钟 (<https://kinetix-lee.github.io/time/>)
+# time [![Github Pages](https://github.com/Kinetix-Lee/time/actions/workflows/pages.yml/badge.svg)](https://github.com/Kinetix-Lee/time/actions/workflows/pages.yml)
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
