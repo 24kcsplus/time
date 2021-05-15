@@ -10,7 +10,6 @@
 import Clock from './components/Clock'
 import SettingsButton from './components/SettingsButton'
 import TimerButton from'./components/TimerButton'
-import TimerButton from './components/TimerButton.vue'
 
 export default {
   name: 'Time',
