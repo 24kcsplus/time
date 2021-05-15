@@ -8,7 +8,7 @@
 
 <script>
 import Clock from './components/Clock'
-import SettingsButton from './components/SettingsButtom'
+import SettingsButton from './components/SettingsButton'
 import TimerButton from'./components/TimerButton'
 
 export default {
