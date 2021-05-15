@@ -1,5 +1,5 @@
 <template>
-  <button id="settingsButton" @click="this.$store.commit('toggle')">
+  <button id="settingsButton" @click="this.$store.commit('')">
     <span class="material-icons">{{ this.$store.state ? 'settings' : 'settings' }}</span>
   </button>
 </template>
