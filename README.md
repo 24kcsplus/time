@@ -1,4 +1,4 @@
-# time [![Github Pages](https://github.com/Kinetix-Lee/time/actions/workflows/pages.yml/badge.svg)](https://github.com/Kinetix-Lee/time/actions/workflows/pages.yml)
+# time [![Github Pages](https://github.com/24kcsplus/time/actions/workflows/pages.yml/badge.svg)](https://github.com/24kcsplus/time/actions/workflows/pages.yml)
 
 ## Project setup
 ```
