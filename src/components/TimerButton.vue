@@ -1,10 +1,10 @@
 <template>
-  <button id="settingsButton" @click="this.$store.commit('toggle')">
+  <button id="timerButton" @click="this.$store.commit('toggle')">
     <span class="material-icons">{{ this.$store.state.onClock ? 'schedule' : 'timer' }}</span>
   </button>
 </template>
 <style>
-#settingsButton {
+#timerButton {
   display: flex;
   position: absolute;
   right: 5%;
@@ -19,13 +19,13 @@
   background: #212121;
   transition: .25s;
 }
-#settingsButton:hover {
+#timerButton:hover {
   background: #fafafa;
   color: #212121
 }
 </style>
 <script>
 export default {
-  name: 'SettingsButton'
+  name: 'TimerButton'
 }
 </script>
